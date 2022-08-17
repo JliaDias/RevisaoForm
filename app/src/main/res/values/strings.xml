@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Revisao</string>
+    <string name="edtNome">Nome: </string>
+    <string name="edtEndereco">Endereço: </string>
+    <string name="edtBairro">Bairro: </string>
+    <string name="edtCep">CEP: </string>
+    <string name="btnCadastrar">Cadastrar: </string>
+    <string name="resposta">Tela de Resposta!</string>
+</resources>
